@@ -1,6 +1,8 @@
 # Enterprise IAM Foundation in Microsoft Entra ID
 
-I built this project to learn enterprise-level IAM in Microsoft Entra ID.
+This project demonstrates the implementation of enterprise identity and access management controls using Microsoft Entra ID.
+
+The implementation includes identity lifecycle management, Conditional Access, RBAC, Dynamic Groups, Self-Service Password Reset (SSPR), and break-glass administrative access following Zero Trust principles.
 
 ## What I built:
 - 16 users in 4 departments
