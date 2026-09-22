@@ -1,4 +1,4 @@
-# My IAM Project — Mock Company Tenant
+# Enterprise IAM Foundation in Microsoft Entra ID
 
 I built this project to learn enterprise-level IAM in Microsoft Entra ID.
 
